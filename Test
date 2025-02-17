@@ -1,5 +1,6 @@
 import backtrader as bt
 import pandas as pd
+import matplotlib
 from datetime import datetime
  
 # Create a Stratey
